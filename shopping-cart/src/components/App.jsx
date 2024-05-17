@@ -9,7 +9,7 @@ function App() {
     <>
       <nav>
         
-        <Link className='link'>
+        <Link to='/' className='link'>
         <img src={logo} alt="" className='logo'/>
           <h2>Panda Store</h2>
           </Link>
@@ -23,7 +23,8 @@ function App() {
       <div id='about'>
         <h1>About</h1>
         <div>
-        <p>lor</p>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi doloremque deserunt et velit vitae soluta! Cupiditate sed nulla veniam unde atque! Recusandae possimus fuga veritatis. Distinctio aliquid nesciunt repellat tempore.</p>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum maiores dolor cum enim dolorem aut tempore, eum ullam sapiente. Tempora laudantium aliquid ad debitis ipsam deleniti saepe. Tempore, nostrum delectus.</p>
         </div>
         
       </div>
