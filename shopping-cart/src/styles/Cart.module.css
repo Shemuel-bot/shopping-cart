@@ -1,0 +1,28 @@
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    min-height: 200px;
+    background-color: aliceblue;
+}
+
+
+
+.close{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 20px;
+}
+.checkout{
+    max-width: 200px;
+    position: relative;
+    bottom: -30px;
+}
+
+.btn{
+    width: 120px;
+    height: 40px;
+    background-color: black;
+    color: white;
+}
