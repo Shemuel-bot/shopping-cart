@@ -3,6 +3,7 @@ nav{
     align-items: center;
     justify-content: space-evenly;
     background-color: #000000;
+    margin-bottom: 70px;
     padding: 20px;
     box-shadow: 5px 8px 10px rgba(109, 109, 109, 0.37);
   }
@@ -25,4 +26,12 @@ nav{
     align-items: center;
     gap: 5px;
     color: aliceblue;
+  }
+  #products{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    left: 20%;
+    gap: 20px;
+    width: 60%;
   }
