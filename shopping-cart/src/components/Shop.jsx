@@ -72,7 +72,7 @@ export default function Shop() {
                     <h2>Panda Store</h2>
                 </Link>
                 <div className='links'>
-                    <Link to='Shop' className='link'> Shop</Link>
+                    <Link to='' className='link'> Shop</Link>
                     <Link to='Cart'><img src={cart} alt="" className='cart' /></Link>
                 </div>
             </nav>
