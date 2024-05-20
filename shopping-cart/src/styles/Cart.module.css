@@ -5,7 +5,13 @@
     min-height: 200px;
     background-color: aliceblue;
 }
-
+.products{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
 
 
 .close{
@@ -25,4 +31,16 @@
     height: 40px;
     background-color: black;
     color: white;
+}
+.just_product_div{
+    display: flex;
+    gap: 5px;
+    width: 400px;
+    background-color: black;
+    color: white;
+    box-shadow: 5px 5px 10px rgba(105, 105, 105, 0.637);
+}
+.product_div_image{
+    width: 100px;
+    height: 100px;
 }
