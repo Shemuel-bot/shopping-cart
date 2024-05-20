@@ -1,8 +1,8 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
+import React from 'react';
+import ReactDOM from 'react-dom/client';
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import './styles/index.css'
-import App from './components/App.jsx'
+import './styles/index.css';
+import App from './components/App.jsx';
 import Shop from './components/Shop.jsx';
 import ErrorPage from './components/ErrorPage.jsx';
 import Cart from './components/Cart.jsx';
